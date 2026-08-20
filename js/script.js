@@ -1,10 +1,10 @@
 const sections = [
-  {t: 0, n: '1 Sphinx'}, {t: 30, n: '2 Anubis'}, {t: 47, n: '3 Manticore'}, {t: 62, n: '4 Cerberus'}, {t: 80, n: '5 Phoenix'},
-  {t: 97, n: '6 Jellyfish'}, {t: 114, n: '7 Hydra'}, {t: 131, n: '8 Minotaur'}, {t: 149, n: '9 Chimera'}, {t: 165, n: '10 Cyclops'},
-  {t: 184, n: '11 Dragon'}, {t: 203, n: '12 Werewolf'}, {t: 221, n: '13 Vampire'}, {t: 240, n: '14 Gargoyle'}, {t: 260, n: '15 Faun'},
-  {t: 276, n: '16 Jörmungandr'}, {t: 294, n: '17 Kraken'}, {t: 312, n: '18 Dullahan'}, {t: 332, n: '19 Banshee'}, {t: 351, n: '20 Selkie'},
-  {t: 369, n: '21 Tiamat'}, {t: 386, n: '22 Wendigo'}, {t: 405, n: '23 Yeti'}, {t: 421, n: '24 Kitsune'}, {t: 438, n: '25 Kappa'},
-  {t: 457, n: '26 Oni'}, {t: 477, n: '27 Chupacabra'}, {t: 500, n: '28 Garuda'}, {t: 517, n: '29 Basilisk'}, {t: 536, n: '30 Alicorn'}
+  {t: 14, n: '1 Sphinx'}, {t: 32, n: '2 Anubis'}, {t: 48, n: '3 Manticore'}, {t: 64, n: '4 Cerberus'}, {t: 81, n: '5 Phoenix'},
+  {t: 97, n: '6 Jellyfish'}, {t: 114 , n: '7 Hydra'}, {t: 131, n: '8 Minotaur'}, {t: 149, n: '9 Chimera'}, {t: 164, n: '10 Cyclops'},
+  {t: 182, n: '11 Dragon'}, {t: 201, n: '12 Werewolf'}, {t: 220, n: '13 Vampire'}, {t: 241, n: '14 Gargoyle'}, {t: 258, n: '15 Faun'},
+  {t: 273, n: '16 Jörmungandr'}, {t: 290, n: '17 Kraken'}, {t: 306, n: '18 Dullahan'}, {t: 323  , n: '19 Banshee'}, {t: 342, n: '20 Selkie'},
+  {t: 359, n: '21 Tiamat'}, {t: 376, n: '22 Wendigo'}, {t: 394, n: '23 Yeti'}, {t: 409, n: '24 Kitsune'}, {t: 426, n: '25 Kappa'},
+  {t: 444, n: '26 Oni'}, {t: 463, n: '27 Chupacabra'}, {t: 484, n: '28 Garuda'}, {t: 500, n: '29 Basilisk'}, {t: 518, n: '30 Alicorn'}
 ];
 
 const a = document.getElementById('a');
